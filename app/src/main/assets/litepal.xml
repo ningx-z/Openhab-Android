@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="openhab_db"/>
+    <version value="2"/>
+    <list>
+        <mapping class="org.openhab.habdroid.model.UserInfo"/>
+        <mapping class="org.openhab.habdroid.model.LiteThings"/>
+        <mapping class="org.openhab.habdroid.model.LiteItems"/>
+
+    </list>
+</litepal>
